@@ -1,1 +1,1 @@
-### This will contain the Data Science related projects.
+### This contains the Data Science related projects.
